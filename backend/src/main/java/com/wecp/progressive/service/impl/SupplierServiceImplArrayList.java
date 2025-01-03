@@ -9,7 +9,7 @@ import java.util.Comparator;
 import java.util.List;
 
 @Service
-public class SupplierServiceImplArraylist implements SupplierService {
+public class SupplierServiceImplArrayList implements SupplierService {
 
     private static List<Supplier> supplierList = new ArrayList<>();
 
